@@ -138,3 +138,4 @@ As usual, Fork and Clone this repository. Pay attention to where (on the file sy
 
 If you have score and lives labels that update, and if you get a end-game screen if your lives get to zero, you have completed the exercise. Save the Scenes, edit your LICENSE and README, commit everything to Github, and turn in the URL of your repository on Canvas.
  
+Assignment completed as part of learning how to use Godot. Code seemed to work correctly, but game wouldn't span a new ball after a ball went off the side of the screen. 
